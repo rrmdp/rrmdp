@@ -15,10 +15,10 @@ Learning by building in public Web3 projects | Since 2009 in the Vacation Rental
 
 <div width="100%" align="center"><a href="https://github.com/rrmdp/Kill-the-Boss" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rrmdp&repo=Kill-the-Boss&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rrmdp/comments-with-polygon" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rrmdp&repo=comments-with-polygon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/rrmdp/NFTEmojis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rrmdp&repo=NFTEmojis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rrmdp/vue3shop" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rrmdp&repo=vue3shop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
+<p></p>
 
 ### Skills
 
@@ -48,6 +48,6 @@ Learning by building in public Web3 projects | Since 2009 in the Vacation Rental
 <p align="left"> <a href="https://www.github.com/rrmdp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rrmdp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rrmdp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<a href="https://github.com/rrmdp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmdp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> 
+<a href="https://github.com/rrmdp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmdp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
 
