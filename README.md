@@ -7,7 +7,7 @@ Web developer 👨‍💻
 Learning by building in public Web3 projects | Since 2009 in the Vacation Rental industry (Direct bookings websites) | Full-Stack at quirkyaccom.com | Indiehacking at jomres-plugins.com | Building https://www.stackoverflowjobsalternatives.com/ | Growing Villas Mediterranean
 
 * 🌍  I'm based in Mallorca, Spain
-* 🚀  I'm currently working on [StackOverflow Jobs Alternatives](http://www.stackoverflowjobsalternatives.com)
+* 🚀  I'm currently working on [StackOverflow Jobs Alternatives](http://www.stackoverflowjobsalternatives.com?ref=githuboverview)
 * 🧠  I'm learning Web3 dApps with React JS, Smart Contracts with Solidity 🔥
 * ⚡  Check out my open source Web3 projects below 👇
 
@@ -19,7 +19,7 @@ Learning by building in public Web3 projects | Since 2009 in the Vacation Rental
 <div width="100%" align="center"><a href="https://github.com/rrmdp/NFTEmojis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rrmdp&repo=NFTEmojis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rrmdp/vue3shop" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rrmdp&repo=vue3shop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <p></p>
-
+<br /><br />
 ### Skills
 
 <p align="left">
