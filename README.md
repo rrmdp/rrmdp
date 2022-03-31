@@ -20,6 +20,8 @@ Learning by building in public Web3 projects | Since 2009 in the Vacation Rental
 
 <p></p>
 <br /><br />
+
+
 ### Skills
 
 <p align="left">
