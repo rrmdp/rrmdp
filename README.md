@@ -4,7 +4,7 @@ Hi 👋 My name is Rodrigo Rocco
 Web developer 👨‍💻
 -------------------
 
-Learning by building in public Web3 projects | Since 2009 in the Vacation Rental industry (Direct bookings websites) | Full-Stack at quirkyaccom.com | Indiehacking at jomres-plugins.com | Building https://www.stackoverflowjobsalternatives.com/ | Growing Villas Mediterranean
+Learning by building in public Web3 projects | Since 2009 in the Vacation Rental industry (Direct bookings websites) | Full-Stack at quirkyaccom.com | Indiehacking at jomres-plugins.com | Building StackOverflow Jobs Alternatives | Growing Villas Mediterranean
 
 * 🌍  I'm based in Mallorca, Spain
 * 🚀  I'm currently working on [StackOverflow Jobs Alternatives](http://www.stackoverflowjobsalternatives.com?ref=githuboverview)
