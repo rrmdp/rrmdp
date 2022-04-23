@@ -7,7 +7,7 @@ Web developer 👨‍💻
 Learning by building in public Web3 projects | Since 2009 in the Vacation Rental industry (Direct bookings websites) | Full-Stack at quirkyaccom.com | Indiehacking at jomres-plugins.com | Building StackOverflow Jobs Alternatives | Growing Villas Mediterranean
 
 * 🌍  I'm based in Mallorca, Spain
-* 🚀  I'm currently working on [Job Board Search](http://www.jobboardsearch.com?ref=githuboverview) [Villas Mediterranean](http://www.villasmediterranean.com.com?ref=githuboverview) [Quirkyaccom](http://www.quirkyaccom.com)
+* 🚀  I'm currently working on [Job Board Search](http://www.jobboardsearch.com?ref=githuboverview) • [Villas Mediterranean](http://www.villasmediterranean.com.com?ref=githuboverview) • [Quirkyaccom](http://www.quirkyaccom.com)
 * 🧠  I'm learning Web3 dApps with React JS, Smart Contracts with Solidity 🔥
 * ⚡  Check out my open source Web3 projects below 👇
 
