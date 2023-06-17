@@ -4,7 +4,7 @@ Hi 👋 My name is Rodrigo Rocco
 Web developer 👨‍💻
 -------------------
 
-Building in public [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githuboverview) at Twitter [@rrmdp](https://twitter.com/rrmdp) | Learning by building in public Web3 projects | Since 2009 in the Vacation Rental industry (Direct bookings websites) | Full-Stack at quirkyaccom.com | Indiehacking at jomres-plugins.com |  Growing Villas Mediterranean
+Building in public [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githuboverview) at Twitter [@rrmdp](https://twitter.com/rrmdp) | Learning by building in public Web3 projects | Since 2009 in the Vacation Rental industry (Direct bookings websites) | Full-Stack at quirkyaccom.com | Founder at jomres-plugins.com (Custom development agency in the travel / hospitality industry) |  Growing Villas Mediterranean
 
 * 🌍  I'm based in Mallorca, Spain
 * 🚀  I'm currently working on [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githuboverview) • [VillasMediterranean 🏡](http://www.villasmediterranean.com.com?ref=githuboverview) • [Quirkyaccom](http://www.quirkyaccom.com)
