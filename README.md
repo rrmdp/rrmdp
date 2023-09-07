@@ -8,7 +8,7 @@ Building in public [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githubov
 
 * 🌍  I'm based in Mallorca, Spain
 * 🚀  I'm currently working on [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githuboverview) • [VillasMediterranean 🏡](http://www.villasmediterranean.com.com?ref=githuboverview) • [Quirkyaccom](http://www.quirkyaccom.com)
-* I'm learning AI by building a AI powered Telegram bot that suggests cool itineraries [Tourist Itinerary Bot 🗺](https://www.travelmassive.com/posts/tourist-itinerary-bot-635305738)
+* I'm learning AI by building a AI powered Telegram bot that suggests cool itineraries [Tourist Itinerary Bot 🗺](https://touristitinerary.com/?ref=githubprofile)
 
  Previously 
 * 🧠  I'm learning Web3 dApps with React JS, Smart Contracts with Solidity 🔥
