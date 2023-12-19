@@ -7,7 +7,7 @@ Web developer 👨‍💻
 Building in public [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githuboverview) at Twitter [@rrmdp](https://twitter.com/rrmdp) | Learning by building in public Web3 projects | Since 2009 in the Vacation Rental industry (Direct bookings websites) | Full-Stack at quirkyaccom.com | Founder at jomres-plugins.com (Custom development agency in the travel / hospitality industry) |  Growing VillasMediterranean (Short term villa rentals in Mallorca)
 
 * 🌍  I'm based in Mallorca, Spain
-* 🚀  I'm currently working on [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githuboverview) • [VillasMediterranean 🏡](http://www.villasmediterranean.com.com?ref=githuboverview) • [Quirkyaccom](http://www.quirkyaccom.com)
+* 🚀  I'm currently working on [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githuboverview) • [VillasMediterranean 🏡](https://www.villasmediterranean.com.com?ref=githuboverview) • [Property Description AI](https://propertydescriptionai.com?ref=githuboverview)
 * I'm learning AI by building a AI powered Telegram bot that suggests cool itineraries [Tourist Itinerary Bot 🗺](https://touristitinerary.com/?ref=githubprofile)
 
  Previously 
