@@ -9,7 +9,7 @@ Building in public [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githubov
 * 🌍  I'm based in Mallorca, Spain
 * 🚀  I'm currently working on [JobBoardSearch 🔎](https://jobboardsearch.com?ref=githuboverview) and passed $45K in revenue • [VillasMediterranean 🏡](https://www.villasmediterranean.com.com?ref=githuboverview) Passed $200K in revenue • [PropertyDescriptionAI](https://propertydescriptionai.com?ref=githuboverview) • [ReviewReplyAI](https://reviewrepliai.com?ref=githuboverview)
 * I'm learning AI and learning about Telegran bots like [Tourist Itinerary Bot 🗺](https://touristitinerary.com/?ref=githubprofile) or [24 hours vet ☦️](https://24hoursvet.com/?ref=githubprofile)
-*  **Open to freelance please DM on Twitter""
+* **Open to freelance please DM on Twitter**
 
  Previously 
 * 🧠  I'm learning Web3 dApps with React JS, Smart Contracts with Solidity 🔥
